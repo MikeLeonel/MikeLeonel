@@ -5,6 +5,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.educacao.df.gov.br/escola-ganha-impressora-3d-apos-vencer-torneio-de-robotica/)
 
 ![Maicom Leonel GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeLeonel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeLeonel)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
