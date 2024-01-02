@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Maicom Leonel 👊🏻🧑🏻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicom-leonel/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@Encontreoxx)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Encontreoxx)
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.educacao.df.gov.br/escola-ganha-impressora-3d-apos-vencer-torneio-de-robotica/)
 
 ![Maicom Leonel GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeLeonel&show_icons=true&theme=radical)
