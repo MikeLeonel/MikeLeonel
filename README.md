@@ -17,4 +17,4 @@
 </div><br/>
 
 
-No quarto semestre de Análise e Desenvolvimento de Sistemas, minha trajetória é marcada por uma transição única. Antigo professor de matemática e robótica, minha paixão pela tecnologia ganhou vida. A decisão de ingressar nessa área reflete um desejo intrínseco de explorar novos horizontes, aplicando minhas experiências anteriores. Cada aula é uma oportunidade de unir meu passado de educador com o presente desafiador do desenvolvimento de sistemas, moldando um futuro onde a inovação e a aprendizagem constante são pilares essenciais.
+Formado em de Análise e Desenvolvimento de Sistemas, minha trajetória é marcada por uma transição única. Antigo professor de matemática e robótica, minha paixão pela tecnologia ganhou vida. A decisão de ingressar nessa área reflete um desejo intrínseco de explorar novos horizontes, aplicando minhas experiências anteriores. Cada projeto é uma oportunidade de unir meu passado de análise da teoria dos números com o presente desafiador do desenvolvimento de sistemas, moldando um futuro onde a inovação e a aprendizagem constante são pilares essenciais.
